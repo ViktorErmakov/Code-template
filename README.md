@@ -1,5 +1,7 @@
 # Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Шаблоны кода 1С:Предприятие 8.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Иерархия шаблонов строится на основании синтаксис-помошника.
+
+ВАЖНО: Перед тем, как добавить свой шаблон, посмотри к какому разделу относится твой код, и создай необходимую структуру.
